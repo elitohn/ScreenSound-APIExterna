@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:0F172A,55:164E63,100:0891B2&text=Screen%20Sound%20API&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=M%C3%BAsicas%2C%20API%20externa%20e%20LINQ&descAlignY=61&descSize=15" alt="Capa do projeto Screen Sound API" width="100%" />
+
+![Tecnologia](https://img.shields.io/badge/C%23%20%26%20.NET-0F172A?style=flat-square) ![Idioma](https://img.shields.io/badge/documentação-pt--BR-0891B2?style=flat-square) ![Tipo](https://img.shields.io/badge/projeto-de%20estudo-334155?style=flat-square)
+
+</div>
+
 # Screen Sound — API Externa
 
 Aplicação de console em **C#/.NET** para consumir um catálogo de músicas em JSON e explorar consultas usando **LINQ**.
